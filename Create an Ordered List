@@ -11,9 +11,9 @@
     <li>lasagna</li>
   </ul>
   <p>Top 3 things cats hate:</p>
-  <ul>
+  <ol>
     <li>take a shower</li>
     <li>plays with dogs</li>
     <li>work</li>
-  </ul>
+  </ol>
 </main>
